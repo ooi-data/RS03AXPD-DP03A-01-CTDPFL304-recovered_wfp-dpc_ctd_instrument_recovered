@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXPD-DP03A-01-CTDPFL304-recovered_wfp-dpc_ctd_instrument_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: CTD<br>
